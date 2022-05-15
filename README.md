@@ -4,8 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalisonSantana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalisonSantana&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+## Contatos
 <div style="display: inline_block"><br>
-  ## Contatos
   <img align="center" alt="Talison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Talison-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Talison-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
